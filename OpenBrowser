@@ -1,0 +1,4 @@
+
+def OpenBrowser():
+    usebrowser = webdriver.Chrome()
+    return usebrowser
