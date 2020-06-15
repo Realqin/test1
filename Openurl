@@ -1,0 +1,4 @@
+
+def Openurl(handle, url):
+    handle.get(url)
+    handle.maximize_window()
